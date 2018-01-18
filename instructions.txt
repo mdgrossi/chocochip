@@ -1,2 +1,7 @@
 beat the butter and sugar, stir in the eggs
+<<<<<<< HEAD
 add water
+=======
+mix in the chocolate chips
+mix in the flour
+>>>>>>> b383865073658685d866ee3f08d8dc85d7d322bd
